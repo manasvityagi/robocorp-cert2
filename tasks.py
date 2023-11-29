@@ -90,7 +90,7 @@ def fill_and_submit(row):
 
 def get_order():
      library = Tables()
-     data =  library.read_table_from_csv("C://Users//TyagiM//Projects//Python//RobotFramework//CERT2//orders.csv")
+     data =  library.read_table_from_csv("orders.csv")
      return data
 
 
