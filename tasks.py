@@ -32,7 +32,7 @@ def order_robots_from_RobotSpareBin():
     init()
 
     open_robot_order_website()
-    # download_excel_file()
+    download_excel_file()
     fill_the_form()
     archive_receipts()
 
